@@ -4,8 +4,8 @@ import org.objectweb.asm.*;
 
 /**
  * CS 322 Assignment 3
- * This program generates a class file with the ASM library to implement an if...else statement
- * @author Kirin Sharma
+ * If Then Else
+ * @author Tyler Lericos
  * @version 1.0
  */
 
